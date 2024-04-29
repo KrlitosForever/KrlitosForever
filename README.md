@@ -35,7 +35,7 @@ Estoy emocionado de formar parte de esta plataforma y de contribuir con mi exper
 # 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=krlitosforever&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br>
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=KrlitosForever)](https://github.com/LordDashMe/github-contribution-stats/)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=krlitosforever&theme=dark&hide_border=true)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=krlitosforever&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
