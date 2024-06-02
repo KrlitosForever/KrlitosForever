@@ -10,8 +10,11 @@ Estoy emocionado de formar parte de esta plataforma y de contribuir con mi exper
 
 # 🏆 Certificado
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="16d69951-7c24-4880-9fe3-c9d2dfe09f38" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
+<div align="center">
+<a href="https://www.credly.com/badges/16d69951-7c24-4880-9fe3-c9d2dfe09f38/public_url" target="_blank">
+<img src=https://images.credly.com/size/220x220/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png />
+</a>
+</div>
 
 # 🌐 Mis Redes Sociales:
 <div align="center">
