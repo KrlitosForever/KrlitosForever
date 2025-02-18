@@ -6,7 +6,7 @@ Una de mis mayores pasiones en este campo son las Raspberry Pi. Estos diminutos 
 
 Programar no solo es mi profesión, sino también mi hobby. Disfruto especialmente creando pequeños proyectos que, aunque simples en su concepción, tienen un impacto tangible en mi vida diaria. Desde sistemas de automatización para el hogar hasta soluciones personalizadas para tareas específicas, siempre estoy buscando nuevas formas de aplicar mis habilidades de programación para hacer mi vida y la de los demás un poco más fácil y divertida.
 
-Estoy emocionado de formar parte de esta plataforma y de contribuir con mi experiencia y conocimientos. Creo firmemente en el poder de la colaboración y estoy seguro de que juntos podemos lograr grandes cosas.
+Estoy emocionado de formar parte de esta plataforma y de contribuir con mi experiencia y conocimientos. Creo firmemente en el poder de la colaboración y estoy seguro de que juntos podemos lograr grandes cosas ❤️.
 
 # 🏆 Certificado
 
